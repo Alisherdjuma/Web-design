@@ -1,0 +1,308 @@
+img{
+	width: 100%;
+}
+.logo{
+	width: 150px;
+}
+header{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+nav ul{
+	list-style: none;
+	display: flex;
+
+}
+nav a{
+	text-decoration: none;
+	padding: 10px;
+	color: red;
+}
+nav a:hover{
+	color: forestgreen;
+}
+.menu a{
+	color: blue;
+	text-decoration: none;
+	padding: 10px;
+}
+.section1{
+	background-image: url("https://i.pinimg.com/736x/5b/59/1c/5b591c4ee052b15bc893b46062733d85.jpg");
+	background-size: cover;
+	height: 600px;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.title{
+	width: 700px;
+	display: flex;
+	flex-direction: column;
+}
+.title p{
+	font-size: 30px;
+	text-align: center;
+}
+.title h1{
+	text-align: center;
+	font-size: 50px;
+}
+.menu{
+	display: flex;
+	justify-content: center;
+}
+.menu a:nth-child(1){
+	color: white;
+	background: #064477;
+	border-radius: 20px;
+	padding: 10px 20px;
+}
+.menu a:nth-child(2){
+	color: #064477;
+	border: 2px solid #ACA6FF;
+	border-radius: 20px;
+	padding: 10xp 20px;
+}
+.menu a:hover:nth-child(1){
+	background: #A6FFDC;
+	color:#064477 ;
+}
+.menu a:hover:nth-child(2){
+	background: #BA0000;
+}
+.text{
+	margin: auto;
+	width: 700px;
+}
+.wrap{
+	display: flex;
+	justify-content: center;
+}
+img{
+	width: 100%;
+}
+.wrap >div{
+	width: 500px;
+	margin: 20px;
+}
+.section2{
+	background-image: url("https://img.freepik.com/free-vector/red-color-background-gradient-modern-design-abstract_343694-2153.jpg");
+	background-size: cover;
+	height: 800px;
+	background-repeat: no-repeat;
+}
+.text h2{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+.text p{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.text2{
+	color: white;
+	font-size: 18px;
+}
+.text3 h2{
+	font-size: 40px;
+	color: white;
+}
+.text3{
+	width: 500px;
+}
+.section3{
+	padding: 50px 100px;
+}
+.wrap2 img{
+	width: 100px;
+}
+.wrap2{
+	width: 200px;
+	margin: 20px;
+}
+.conteiner{
+	display: flex;
+	flex-wrap: wrap;
+	width: 800px;
+	background-color: rgba(243, 242, 241 , 0.5);
+}
+.section3{
+	background-image: url("https://img.freepik.com/premium-vector/modern-blue-abstract-presentation-design-background_181182-26514.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text3 p{
+	color: white;
+}
+.wrap2 p{
+	text-align: justify;
+}
+.text4 h2{
+	font-size: 55px;
+	font-family: sans-serif;
+}
+.text4 p{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.section4{
+	padding: 50px 100px;
+}
+.wrap3{
+	width: 210px;
+	margin: 15px;
+}
+.conteiner2{
+	display: flex;
+	justify-content: space-around;
+	font-size: 25px;
+	font-family: sans-serif;
+	padding: 50px;
+}
+.section4{
+	background-image: url("https://img.freepik.com/premium-photo/abstract-elegant-gray-background-motion-blur-diagonal-for-design_213524-422.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.link img{
+	width: 50px;
+}
+.photo img{
+	width: 250px;
+	border-radius: 100%;
+	height: 250px;
+}
+.conteiner3{
+	display: flex;
+	justify-content: center;
+	font-size: 18px;
+	padding: 18px;
+	flex-wrap: wrap;
+	margin: auto;
+}
+.section5{
+	background-image: url("https://img.freepik.com/premium-vector/geometric-abstract-background-for-web-design-and-presentation_641728-256.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.wrap4{
+	background-color: white;
+	width: 300px;
+	padding: 25px;
+	margin: 20px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+.link2{
+	width: 200px;
+}
+.wrap5{
+	width: 300px;
+	height: 400px;
+	background-color: red;
+	margin: 10px;
+	position: relative;
+}
+.conteiner4{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 1000px;
+	margin: auto;
+}
+.box1{
+	background-image: url("https://kartinki.pics/uploads/posts/2021-01/1611331422_12-p-fon-dlya-veb-dizaina-12.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h3{
+	color: white;
+}
+p{
+	color: white;
+}
+.box2{
+	background-image: url("https://bogatyr.club/uploads/posts/2023-03/thumbs/1679769852_bogatyr-club-p-fon-dlya-prezentatsii-sereznii-instagram-26.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box3{
+	background-image: url("https://bogatyr.club/uploads/posts/2023-03/thumbs/1679028678_bogatyr-club-p-fon-dlya-blogera-foni-oboi-42.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box4{
+	background-image: url("https://img.freepik.com/premium-vector/design-elements-business-presentation-template-vector-illustration-vertical-web-banners-background-backdrop-glow-light-effect-eps-10-for-web-template-web-site-page-presentation-neon-disco-club_299644-19368.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box5{
+	background-image: url("https://img.freepik.com/free-vector/colourful-dark-wavy-background_23-2148392382.jpg?w=740&t=st=1707193197~exp=1707193797~hmac=78ce2d2939e4330e2a380eed36747a0063395f6af586eb132064fa67779c9d2b");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box6{
+	background-image: url("https://img.freepik.com/free-vector/dark-wavy-background_23-2148396401.jpg?t=st=1707193197~exp=1707193797~hmac=5b9d9dde70020dec1e6b6026eef8e00e36bfaaf08a84f9741107255255b0f0b0");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box{
+	background-color: rgba(243, 237, 231, 0.5);
+ 	padding: 20px 20px;
+ 	position: absolute;
+ 	bottom: 0px;
+ 	left: 0px;
+ 	width: 100%;
+}
+h2{
+	text-align: center;
+	margin-top: 50px;
+}
+.conteiner5{
+	margin: auto;
+	width: 500px;
+	text-align: center;
+	padding: 20px;
+}
+input[type=text], input[type=email] {
+	width: 100%;
+	padding: 10px;
+	margin: 10px 0px 20px;
+	border-radius: 10px;
+	background-color: #E0E0E0 ;
+	border: none;
+}
+textarea{
+	background-color: #E0E0E0 ;
+	width: 100%;
+	border-radius: 9px;
+	padding: 10px;
+}
+.section6{
+	background-color: #29C871 ;
+	padding-top: 50px;
+}
+*{
+	box-sizing: border-box;
+}
+input[type=submit]{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	color: white;
+	border-radius: 9px;
+	opacity: 0.7;
+}
+input[type=submit]:hover{
+	opacity: 0.9;
+	cursor: pointer;
+}
+.section6{
+	margin-top: 50px;
+}
